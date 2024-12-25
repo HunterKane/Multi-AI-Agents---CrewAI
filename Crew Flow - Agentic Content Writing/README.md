@@ -1,7 +1,7 @@
 
-# Content writing agentic-workflow
+# Content Writing Agentic-Workflow
 
-This project leverages CrewAI Flow to scrape a website, prepare a social post and publish it, powered by a locally running Llama 3.2!
+This project leverages CrewAI Flow to scrape a website, prepare a social post, and publish it, powered by a locally running Llama 3.2!
 
 
 ## Installation and setup
